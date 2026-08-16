@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Pranathi Vutukuri 👋
+# Hi, I'm Naaga Pranathi Vutukuri 👋
 
 ### Software Development Engineer · Java/Python & SQL · AWS/Azure Cloud · Data & AI Solutions
 
